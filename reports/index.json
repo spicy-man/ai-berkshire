@@ -1,0 +1,71 @@
+{
+  "count": 6,
+  "reports": [
+    {
+      "title": "SMH 半导体 ETF 研究报告",
+      "path": "reports/SMH-半导体ETF/SMH半导体ETF研究报告-20260909.md",
+      "bucket": "公司",
+      "group": "SMH-半导体ETF",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-09",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "中国银行业三大代表银行投资研究报告：建设银行、招商银行、宁波银行",
+      "path": "reports/中国银行业三大代表银行投资研究报告-建设银行-招商银行-宁波银行-20260907.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-07",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "中国银行业研究报告",
+      "path": "reports/中国银行业-funnel-20260907.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "筛选",
+      "date": "2026-09-07",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Alphabet（GOOGL）研究报告：巴菲特买入前 Checklist",
+      "path": "reports/GOOGL-谷歌/巴菲特Checklist-谷歌-20260907.md",
+      "bucket": "公司",
+      "group": "GOOGL-谷歌",
+      "series": "",
+      "type": "底稿",
+      "date": "2026-09-07",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "宇树科技（688836.SH）巴菲特价值投资买入前 Checklist 报告",
+      "path": "reports/688836-宇树科技/巴菲特Checklist-宇树科技.md",
+      "bucket": "公司",
+      "group": "688836-宇树科技",
+      "series": "",
+      "type": "底稿",
+      "date": "2026-09-05",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "长鑫科技（688825.SH）巴菲特价值投资买入前 Checklist 报告",
+      "path": "reports/688825-长鑫科技/巴菲特Checklist-长鑫科技.md",
+      "bucket": "公司",
+      "group": "688825-长鑫科技",
+      "series": "",
+      "type": "底稿",
+      "date": "2026-09-05",
+      "date_source": "正文",
+      "ticker": ""
+    }
+  ]
+}

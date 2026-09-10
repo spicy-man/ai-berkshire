@@ -1,11 +1,22 @@
 {
-  "count": 6,
+  "count": 7,
   "reports": [
     {
       "title": "SMH 半导体 ETF 研究报告",
       "path": "reports/SMH-半导体ETF/SMH半导体ETF研究报告-20260909.md",
       "bucket": "公司",
       "group": "SMH-半导体ETF",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-09",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "微软：企业软件护城河仍宽，AI 投资回报决定买入价格",
+      "path": "reports/MSFT-微软/微软研究报告-20260909.md",
+      "bucket": "公司",
+      "group": "MSFT-微软",
       "series": "",
       "type": "研究",
       "date": "2026-09-09",

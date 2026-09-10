@@ -1,6 +1,17 @@
 {
-  "count": 8,
+  "count": 9,
   "reports": [
+    {
+      "title": "沃尔玛（WMT）研究报告",
+      "path": "reports/WMT-沃尔玛/沃尔玛研究报告-20260910.md",
+      "bucket": "公司",
+      "group": "WMT-沃尔玛",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-10",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "伯克希尔哈撒韦（BRK-B）研究报告",
       "path": "reports/BRK-伯克希尔哈撒韦/伯克希尔哈撒韦研究报告-20260910.md",

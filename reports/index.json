@@ -1,6 +1,17 @@
 {
-  "count": 7,
+  "count": 8,
   "reports": [
+    {
+      "title": "伯克希尔哈撒韦（BRK-B）研究报告",
+      "path": "reports/BRK-伯克希尔哈撒韦/伯克希尔哈撒韦研究报告-20260910.md",
+      "bucket": "公司",
+      "group": "BRK-伯克希尔哈撒韦",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-10",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "SMH 半导体 ETF 研究报告",
       "path": "reports/SMH-半导体ETF/SMH半导体ETF研究报告-20260909.md",

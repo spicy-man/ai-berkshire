@@ -1,6 +1,39 @@
 {
-  "count": 9,
+  "count": 15,
   "reports": [
+    {
+      "title": "高通（QCOM）研究报告",
+      "path": "reports/QCOM-高通/高通研究报告-20260912.md",
+      "bucket": "公司",
+      "group": "QCOM-高通",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-12",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Tesla（TSLA）研究报告",
+      "path": "reports/TSLA-特斯拉/Tesla研究报告-20260911.md",
+      "bucket": "公司",
+      "group": "TSLA-特斯拉",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-11",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "腾讯：微信仍是数字基础设施，AI 重投入正在考验现金机器",
+      "path": "reports/0700-腾讯/腾讯研究报告-20260911.md",
+      "bucket": "公司",
+      "group": "0700-腾讯",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-11",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "沃尔玛（WMT）研究报告",
       "path": "reports/WMT-沃尔玛/沃尔玛研究报告-20260910.md",
@@ -13,10 +46,43 @@
       "ticker": ""
     },
     {
+      "title": "TLT（iShares 20+ Year Treasury Bond ETF）研究报告",
+      "path": "reports/TLT-20年期美债ETF/TLT研究报告-20260910.md",
+      "bucket": "公司",
+      "group": "TLT-20年期美债ETF",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-10",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Oracle：数据库现金牛，还是被 AI 数据中心重新定价的重资产公司？",
+      "path": "reports/ORCL-甲骨文/Oracle研究报告-20260910.md",
+      "bucket": "公司",
+      "group": "ORCL-甲骨文",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-10",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "伯克希尔哈撒韦（BRK-B）研究报告",
       "path": "reports/BRK-伯克希尔哈撒韦/伯克希尔哈撒韦研究报告-20260910.md",
       "bucket": "公司",
       "group": "BRK-伯克希尔哈撒韦",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-10",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Adobe：AI 时代的专业内容操作系统，还是被低成本生成工具围攻的旧王？",
+      "path": "reports/ADBE-Adobe/Adobe研究报告-20260910.md",
+      "bucket": "公司",
+      "group": "ADBE-Adobe",
       "series": "",
       "type": "研究",
       "date": "2026-09-10",

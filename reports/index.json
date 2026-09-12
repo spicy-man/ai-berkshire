@@ -1,11 +1,22 @@
 {
-  "count": 15,
+  "count": 16,
   "reports": [
     {
       "title": "高通（QCOM）研究报告",
       "path": "reports/QCOM-高通/高通研究报告-20260912.md",
       "bucket": "公司",
       "group": "QCOM-高通",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-12",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "礼来（LLY）研究报告",
+      "path": "reports/LLY-礼来/礼来研究报告-20260912.md",
+      "bucket": "公司",
+      "group": "LLY-礼来",
       "series": "",
       "type": "研究",
       "date": "2026-09-12",

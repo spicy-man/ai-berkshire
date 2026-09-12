@@ -1,6 +1,17 @@
 {
-  "count": 16,
+  "count": 17,
   "reports": [
+    {
+      "title": "SpaceX（SPCX）研究报告",
+      "path": "reports/SPCX-SpaceX/SpaceX投资研究报告-20260912.md",
+      "bucket": "公司",
+      "group": "SPCX-SpaceX",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-12",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "高通（QCOM）研究报告",
       "path": "reports/QCOM-高通/高通研究报告-20260912.md",

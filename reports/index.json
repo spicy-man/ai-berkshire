@@ -1,6 +1,39 @@
 {
-  "count": 17,
+  "count": 20,
   "reports": [
+    {
+      "title": "Netflix（NFLX）研究报告",
+      "path": "reports/NFLX-奈飞/Netflix研究报告-20260913.md",
+      "bucket": "公司",
+      "group": "NFLX-奈飞",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-13",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Marvell（MRVL）研究报告",
+      "path": "reports/MRVL-迈威尔科技/Marvell研究报告-20260913.md",
+      "bucket": "公司",
+      "group": "MRVL-迈威尔科技",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-13",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Circle（CRCL）研究报告",
+      "path": "reports/CRCL-Circle/Circle研究报告-20260913.md",
+      "bucket": "公司",
+      "group": "CRCL-Circle",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-13",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "SpaceX（SPCX）研究报告",
       "path": "reports/SPCX-SpaceX/SpaceX投资研究报告-20260912.md",

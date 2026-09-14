@@ -3,7 +3,7 @@
 > 本文件由 `tools/reports_index.py` 自动生成，请勿手工编辑。
 > 新增报告后运行 `python3 tools/reports_index.py` 重新生成。
 
-**17 份报告** · **15 家公司** · **1 个专题** · 最近更新 2026-09-12
+**20 份报告** · **18 家公司** · **1 个专题** · 最近更新 2026-09-13
 
 [最近更新](#最近更新) · [按公司](#按公司) · [专题研究](#专题研究) · [大师研究](#大师研究) · [筛选池](#筛选池)
 
@@ -13,6 +13,9 @@
 
 | 日期 | 报告 | 归属 | 类型 |
 |------|------|------|------|
+| 2026-09-13 | [Netflix（NFLX）研究报告](NFLX-奈飞/Netflix研究报告-20260913.md) | NFLX-奈飞 | 研究 |
+| 2026-09-13 | [Marvell（MRVL）研究报告](MRVL-迈威尔科技/Marvell研究报告-20260913.md) | MRVL-迈威尔科技 | 研究 |
+| 2026-09-13 | [Circle（CRCL）研究报告](CRCL-Circle/Circle研究报告-20260913.md) | CRCL-Circle | 研究 |
 | 2026-09-12 | [SpaceX（SPCX）研究报告](SPCX-SpaceX/SpaceX投资研究报告-20260912.md) | SPCX-SpaceX | 研究 |
 | 2026-09-12 | [高通（QCOM）研究报告](QCOM-高通/高通研究报告-20260912.md) | QCOM-高通 | 研究 |
 | 2026-09-12 | [礼来（LLY）研究报告](LLY-礼来/礼来研究报告-20260912.md) | LLY-礼来 | 研究 |
@@ -68,6 +71,13 @@
 </details>
 
 <details>
+<summary><b>CRCL-Circle</b> · 1 份 · 最近 2026-09-13</summary>
+
+- `2026-09-13` [Circle（CRCL）研究报告](CRCL-Circle/Circle研究报告-20260913.md) — 研究
+
+</details>
+
+<details>
 <summary><b>GOOGL-谷歌</b> · 1 份 · 最近 2026-09-07</summary>
 
 - `2026-09-07` [Alphabet（GOOGL）研究报告：巴菲特买入前 Checklist](GOOGL-谷歌/巴菲特Checklist-谷歌-20260907.md) — 底稿
@@ -82,9 +92,23 @@
 </details>
 
 <details>
+<summary><b>MRVL-迈威尔科技</b> · 1 份 · 最近 2026-09-13</summary>
+
+- `2026-09-13` [Marvell（MRVL）研究报告](MRVL-迈威尔科技/Marvell研究报告-20260913.md) — 研究
+
+</details>
+
+<details>
 <summary><b>MSFT-微软</b> · 1 份 · 最近 2026-09-09</summary>
 
 - `2026-09-09` [微软：企业软件护城河仍宽，AI 投资回报决定买入价格](MSFT-微软/微软研究报告-20260909.md) — 研究
+
+</details>
+
+<details>
+<summary><b>NFLX-奈飞</b> · 1 份 · 最近 2026-09-13</summary>
+
+- `2026-09-13` [Netflix（NFLX）研究报告](NFLX-奈飞/Netflix研究报告-20260913.md) — 研究
 
 </details>
 

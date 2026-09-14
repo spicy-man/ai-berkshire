@@ -1,6 +1,28 @@
 {
-  "count": 20,
+  "count": 24,
   "reports": [
+    {
+      "title": "好市多（COST）研究报告",
+      "path": "reports/COST-好市多/好市多研究报告-20260914.md",
+      "bucket": "公司",
+      "group": "COST-好市多",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-14",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "NIKE（NKE）研究报告",
+      "path": "reports/NKE-耐克/Nike研究报告-20260913.md",
+      "bucket": "公司",
+      "group": "NKE-耐克",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-13",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "Netflix（NFLX）研究报告",
       "path": "reports/NFLX-奈飞/Netflix研究报告-20260913.md",
@@ -17,6 +39,28 @@
       "path": "reports/MRVL-迈威尔科技/Marvell研究报告-20260913.md",
       "bucket": "公司",
       "group": "MRVL-迈威尔科技",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-13",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "麦当劳（MCD）研究报告",
+      "path": "reports/MCD-麦当劳/麦当劳研究报告-20260913.md",
+      "bucket": "公司",
+      "group": "MCD-麦当劳",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-13",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "IGV ETF 研究报告",
+      "path": "reports/IGV-科技软件ETF/IGV-ETF研究报告-20260913.md",
+      "bucket": "公司",
+      "group": "IGV-科技软件ETF",
       "series": "",
       "type": "研究",
       "date": "2026-09-13",

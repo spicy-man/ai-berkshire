@@ -1,6 +1,17 @@
 {
-  "count": 28,
+  "count": 29,
   "reports": [
+    {
+      "title": "American Express（AXP）投资研究",
+      "path": "reports/AXP-美国运通/美国运通研究报告-20260917.md",
+      "bucket": "公司",
+      "group": "AXP-美国运通",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-17",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "UnitedHealth Group（UNH）研究报告",
       "path": "reports/UNH-联合健康/UnitedHealth研究报告-20260916.md",

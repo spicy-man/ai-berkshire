@@ -1,6 +1,50 @@
 {
-  "count": 24,
+  "count": 28,
   "reports": [
+    {
+      "title": "UnitedHealth Group（UNH）研究报告",
+      "path": "reports/UNH-联合健康/UnitedHealth研究报告-20260916.md",
+      "bucket": "公司",
+      "group": "UNH-联合健康",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-16",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Meta Platforms（META）研究报告",
+      "path": "reports/META-META/Meta研究报告-20260916.md",
+      "bucket": "公司",
+      "group": "META-META",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-16",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "VGT ETF 研究报告",
+      "path": "reports/VGT-信息技术ETF/VGT-ETF研究报告-20260914.md",
+      "bucket": "公司",
+      "group": "VGT-信息技术ETF",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-14",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "CrowdStrike（CRWD）研究报告",
+      "path": "reports/CRWD-CrowdStrike/CrowdStrike研究报告-20260914.md",
+      "bucket": "公司",
+      "group": "CRWD-CrowdStrike",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-14",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "好市多（COST）研究报告",
       "path": "reports/COST-好市多/好市多研究报告-20260914.md",

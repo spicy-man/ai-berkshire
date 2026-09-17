@@ -3,7 +3,7 @@
 > 本文件由 `tools/reports_index.py` 自动生成，请勿手工编辑。
 > 新增报告后运行 `python3 tools/reports_index.py` 重新生成。
 
-**24 份报告** · **22 家公司** · **1 个专题** · 最近更新 2026-09-14
+**28 份报告** · **26 家公司** · **1 个专题** · 最近更新 2026-09-16
 
 [最近更新](#最近更新) · [按公司](#按公司) · [专题研究](#专题研究) · [大师研究](#大师研究) · [筛选池](#筛选池)
 
@@ -13,6 +13,10 @@
 
 | 日期 | 报告 | 归属 | 类型 |
 |------|------|------|------|
+| 2026-09-16 | [UnitedHealth Group（UNH）研究报告](UNH-联合健康/UnitedHealth研究报告-20260916.md) | UNH-联合健康 | 研究 |
+| 2026-09-16 | [Meta Platforms（META）研究报告](META-META/Meta研究报告-20260916.md) | META-META | 研究 |
+| 2026-09-14 | [VGT ETF 研究报告](VGT-信息技术ETF/VGT-ETF研究报告-20260914.md) | VGT-信息技术ETF | 研究 |
+| 2026-09-14 | [CrowdStrike（CRWD）研究报告](CRWD-CrowdStrike/CrowdStrike研究报告-20260914.md) | CRWD-CrowdStrike | 研究 |
 | 2026-09-14 | [好市多（COST）研究报告](COST-好市多/好市多研究报告-20260914.md) | COST-好市多 | 研究 |
 | 2026-09-13 | [NIKE（NKE）研究报告](NKE-耐克/Nike研究报告-20260913.md) | NKE-耐克 | 研究 |
 | 2026-09-13 | [Netflix（NFLX）研究报告](NFLX-奈飞/Netflix研究报告-20260913.md) | NFLX-奈飞 | 研究 |
@@ -89,6 +93,13 @@
 </details>
 
 <details>
+<summary><b>CRWD-CrowdStrike</b> · 1 份 · 最近 2026-09-14</summary>
+
+- `2026-09-14` [CrowdStrike（CRWD）研究报告](CRWD-CrowdStrike/CrowdStrike研究报告-20260914.md) — 研究
+
+</details>
+
+<details>
 <summary><b>GOOGL-谷歌</b> · 1 份 · 最近 2026-09-07</summary>
 
 - `2026-09-07` [Alphabet（GOOGL）研究报告：巴菲特买入前 Checklist](GOOGL-谷歌/巴菲特Checklist-谷歌-20260907.md) — 底稿
@@ -113,6 +124,13 @@
 <summary><b>MCD-麦当劳</b> · 1 份 · 最近 2026-09-13</summary>
 
 - `2026-09-13` [麦当劳（MCD）研究报告](MCD-麦当劳/麦当劳研究报告-20260913.md) — 研究
+
+</details>
+
+<details>
+<summary><b>META-META</b> · 1 份 · 最近 2026-09-16</summary>
+
+- `2026-09-16` [Meta Platforms（META）研究报告](META-META/Meta研究报告-20260916.md) — 研究
 
 </details>
 
@@ -183,6 +201,20 @@
 <summary><b>TSLA-特斯拉</b> · 1 份 · 最近 2026-09-11</summary>
 
 - `2026-09-11` [Tesla（TSLA）研究报告](TSLA-特斯拉/Tesla研究报告-20260911.md) — 研究
+
+</details>
+
+<details>
+<summary><b>UNH-联合健康</b> · 1 份 · 最近 2026-09-16</summary>
+
+- `2026-09-16` [UnitedHealth Group（UNH）研究报告](UNH-联合健康/UnitedHealth研究报告-20260916.md) — 研究
+
+</details>
+
+<details>
+<summary><b>VGT-信息技术ETF</b> · 1 份 · 最近 2026-09-14</summary>
+
+- `2026-09-14` [VGT ETF 研究报告](VGT-信息技术ETF/VGT-ETF研究报告-20260914.md) — 研究
 
 </details>
 

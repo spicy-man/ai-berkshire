@@ -1,5 +1,5 @@
 {
-  "count": 36,
+  "count": 65,
   "reports": [
     {
       "title": "苏黎世保险（Zurich Insurance Group, SIX: ZURN / OTC: ZURVY）研究报告",
@@ -20,6 +20,28 @@
       "series": "",
       "type": "研究",
       "date": "2026-09-27",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "AI便宜一千倍后，最贵的是电表、入口和签字的人",
+      "path": "reports/AI产业研究/公众号-智能不再稀缺后什么稀缺-20260926.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "公众号",
+      "date": "2026-09-26",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "押成本曲线别押替代日期，一份 AI 十年概率清单",
+      "path": "reports/AI产业研究/公众号-AI十年高概率清单-押成本曲线别押替代日期-20260925.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "公众号",
+      "date": "2026-09-25",
       "date_source": "文件名",
       "ticker": ""
     },
@@ -75,6 +97,61 @@
       "series": "",
       "type": "研究",
       "date": "2026-09-23",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "不动权重的训练：文本空间优化两年演进——从 TextGrad 到技能自进化，再到运行框架与模型协同进化",
+      "path": "reports/AI产业研究/文本空间优化-从TextGrad到技能与运行框架协同进化-技术报告-20260922.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-22",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "大模型请了更强的老师，成功率从 78% 掉到 63%",
+      "path": "reports/AI产业研究/公众号-不动权重的训练-老师更强学生反而掉15分-20260922.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "公众号",
+      "date": "2026-09-22",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "一个不说话的模型，六天里被测出了什么：拆 Jev",
+      "path": "reports/AI产业研究/公众号-Jev-一个不说话的模型六天里被测出了什么-20260921.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "公众号",
+      "date": "2026-09-21",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Jev 与\"决策模型\"品类：技术报告、商业评估与未来三年影响",
+      "path": "reports/AI产业研究/Jev与决策模型品类-技术报告与商业评估-20260921.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-21",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "基模变强之后：业务后训练的空间与算法工程师的去向",
+      "path": "reports/AI产业研究/业务后训练的剩余空间与算法工程师职能迁移-20260919.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-19",
       "date_source": "文件名",
       "ticker": ""
     },
@@ -244,6 +321,17 @@
       "ticker": ""
     },
     {
+      "title": "1.9亿次请求要的不是答案，是思路：拆Anthropic蒸馏报告",
+      "path": "reports/AI产业研究/公众号-Anthropic蒸馏报告-七家中国实验室与1.9亿次请求-20260912.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "公众号",
+      "date": "2026-09-12",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "Tesla（TSLA）研究报告",
       "path": "reports/TSLA-特斯拉/Tesla研究报告-20260911.md",
       "bucket": "公司",
@@ -376,6 +464,28 @@
       "ticker": ""
     },
     {
+      "title": "中美基模公司终局与 MiniMax 差异化研究报告",
+      "path": "reports/AI产业研究/中美基模公司终局与MiniMax差异化研究报告-20260906.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-06",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "核查边界",
+      "path": "reports/AI产业研究/中美基模公司终局与MiniMax差异化研究报告-20260906-核查/核查边界.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "中美基模公司终局与MiniMax差异化研究报告-20260906-核查",
+      "type": "研究",
+      "date": "2026-09-06",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
       "title": "宇树科技（688836.SH）巴菲特价值投资买入前 Checklist 报告",
       "path": "reports/688836-宇树科技/巴菲特Checklist-宇树科技.md",
       "bucket": "公司",
@@ -395,6 +505,215 @@
       "type": "底稿",
       "date": "2026-09-05",
       "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "大模型算法人才市场供需研究：裁员与高价抢人为何并存（2026年8月）",
+      "path": "reports/AI产业研究/大模型算法人才市场供需-裁员与抢人并存的结构-20260817.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-17",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "AI 经济回报格局：25 条流行断言的对抗验证",
+      "path": "reports/AI产业研究/AI经济回报格局-流行断言对抗验证-20260814.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-14",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Agent自进化：近一年证据综述（2025-08 ~ 2026-08）",
+      "path": "reports/AI产业研究/Agent自进化-综述-20260811.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "研究",
+      "date": "2026-08-11",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "\"一年瓦解CUDA\"？3.4万字纪要和代码，我都查了一遍",
+      "path": "reports/AI产业研究/公众号-梁文锋CUDA护城河核查-20260801.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "公众号",
+      "date": "2026-08-01",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "大模型公司格局：国内外赢家推演（3年 / 5年 / 10年）",
+      "path": "reports/AI产业研究/大模型公司格局-国内外赢家推演-3-5-10年-20260704.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "研究",
+      "date": "2026-07-04",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "训练大模型，成本降10倍效果反而更好——怎么做到的？",
+      "path": "reports/AI产业研究/公众号-On-Policy-Distillation-大模型后训练的免费午餐-20260615.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "公众号",
+      "date": "2026-06-15",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "一张图看懂AI产业链：五层蛋糕，钱从哪来到哪去",
+      "path": "reports/AI产业研究/公众号-AI五层蛋糕-框架篇-20260607.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "公众号",
+      "date": "2026-06-07",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "AI隐形瓶颈：三家被忽视的卡脖子/AI纯正标的深度研究",
+      "path": "reports/AI产业研究/隐形瓶颈-Ibiden-Reddit-TempusAI-20260605.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "研究",
+      "date": "2026-06-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "AI能源基建隐形冠军：AZZ / Archrock / nVent 深度研究",
+      "path": "reports/AI产业研究/能源基建隐形冠军-AZZ-Archrock-nVent-20260605.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "研究",
+      "date": "2026-06-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "AI估值洼地：被\"旧标签\"压制的两家AI变现先锋",
+      "path": "reports/AI产业研究/AI估值洼地-Salesforce-Adobe-20260605.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "估值仓位",
+      "date": "2026-06-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "AI五层蛋糕第三层：7250亿美元砸下去，谁接住了？",
+      "path": "reports/AI产业研究/AI五层蛋糕第三层-基础设施层深度研究-20260605.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "深度系列",
+      "date": "2026-06-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "AI五层蛋糕第四层：Anthropic超越了OpenAI，但最该买的可能是Reddit",
+      "path": "reports/AI产业研究/AI五层蛋糕-第四层模型层深度研究-20260605.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "深度系列",
+      "date": "2026-06-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "AI五层蛋糕第五层：真正靠AI赚钱的没几家，但有人被严重低估了",
+      "path": "reports/AI产业研究/AI五层蛋糕-第五层应用层-10家公司深度研究-20260605.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "深度系列",
+      "date": "2026-06-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "AI五层蛋糕第二层：5万亿的Nvidia不贵，7倍PE的SK海力士更便宜",
+      "path": "reports/AI产业研究/AI五层蛋糕-第二层芯片层深度研究-20260605.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "深度系列",
+      "date": "2026-06-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "AI五层蛋糕第一层：谁卡住了AI的电？",
+      "path": "reports/AI产业研究/AI五层蛋糕-第一层-能源层深度研究-20260605.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "深度系列",
+      "date": "2026-06-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "黄仁勋说AI是五层蛋糕，每一层谁在赚钱？",
+      "path": "reports/AI产业研究/AI五层蛋糕-公众号-20260605.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "公众号",
+      "date": "2026-06-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "黄仁勋的AI五层蛋糕：每一层谁卡住了脖子？",
+      "path": "reports/AI产业研究/AI五层蛋糕-产业全景研究-20260605.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "研究",
+      "date": "2026-06-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "AI五层蛋糕：50家卡脖子公司筛选",
+      "path": "reports/AI产业研究/AI五层蛋糕-50家卡脖子公司筛选-20260605.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "筛选",
+      "date": "2026-06-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "黄仁勋说AI是五层蛋糕，我把50家公司扒了个遍",
+      "path": "reports/AI产业研究/公众号-总纲-AI五层蛋糕投资地图.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "公众号",
+      "date": "",
+      "date_source": "缺失",
       "ticker": ""
     }
   ]

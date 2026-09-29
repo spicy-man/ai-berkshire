@@ -1,6 +1,83 @@
 {
-  "count": 29,
+  "count": 36,
   "reports": [
+    {
+      "title": "苏黎世保险（Zurich Insurance Group, SIX: ZURN / OTC: ZURVY）研究报告",
+      "path": "reports/ZURVY-苏黎世保险/苏黎世保险研究报告-20260927.md",
+      "bucket": "公司",
+      "group": "ZURVY-苏黎世保险",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-27",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "亚马逊（AMZN）研究报告",
+      "path": "reports/AMZN-亚马逊/亚马逊研究报告-20260927.md",
+      "bucket": "公司",
+      "group": "AMZN-亚马逊",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-27",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "青岛啤酒（600600.SH / 00168.HK）投资研究报告：百年国标心智、大本营高墙与极度纯净的现金堡垒",
+      "path": "reports/600600-青岛啤酒/青岛啤酒投资研究报告-20260924.md",
+      "bucket": "公司",
+      "group": "600600-青岛啤酒",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-24",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "顺丰控股（002352.SZ / 06936.HK）研究报告：时效壁垒、鄂州超级枢纽与自由现金流大拐点",
+      "path": "reports/002352-顺丰控股/顺丰控股投资研究报告-20260924.md",
+      "bucket": "公司",
+      "group": "002352-顺丰控股",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-24",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "会稽山（601579.SH）研究报告：气泡黄酒破圈与龙头易主背后的估值透支",
+      "path": "reports/601579-会稽山/会稽山研究报告-20260923.md",
+      "bucket": "公司",
+      "group": "601579-会稽山",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-23",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "保利发展（600048.SH）投资研究报告：行业第一龙头的出清、底线与杠杆弹性",
+      "path": "reports/600048-保利发展/保利发展投资研究报告-20260923.md",
+      "bucket": "公司",
+      "group": "600048-保利发展",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-23",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "万科A：旧模式的阵痛与存量资产重构，站在生死线上的困境反转博弈",
+      "path": "reports/000002-万科/万科A投资研究报告-20260923.md",
+      "bucket": "公司",
+      "group": "000002-万科",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-23",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "American Express（AXP）投资研究",
       "path": "reports/AXP-美国运通/美国运通研究报告-20260917.md",

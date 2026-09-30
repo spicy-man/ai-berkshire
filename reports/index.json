@@ -2,8 +2,8 @@
   "count": 70,
   "reports": [
     {
-      "title": "NVIDIA (NASDAQ: NVDA) 投研团队综合深度投资分析报告",
-      "path": "reports/NVDA-英伟达/NVDA投资研究报告_20260930.md",
+      "title": "英伟达（NVDA）研究报告",
+      "path": "reports/NVDA-英伟达/英伟达研究报告-20260930-gpt6.1sol.md",
       "bucket": "公司",
       "group": "NVDA-英伟达",
       "series": "",

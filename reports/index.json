@@ -1,6 +1,39 @@
 {
-  "count": 65,
+  "count": 68,
   "reports": [
+    {
+      "title": "高盛（GS）研究报告",
+      "path": "reports/GS-高盛/高盛研究报告-20260930.md",
+      "bucket": "公司",
+      "group": "GS-高盛",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "谷歌（GOOGL）研究报告",
+      "path": "reports/GOOGL-谷歌/谷歌（GOOGL）研究报告-20260930.md",
+      "bucket": "公司",
+      "group": "GOOGL-谷歌",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "美国银行（BAC）研究报告",
+      "path": "reports/BAC-美国银行/美国银行研究报告-20260930.md",
+      "bucket": "公司",
+      "group": "BAC-美国银行",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "苏黎世保险（Zurich Insurance Group, SIX: ZURN / OTC: ZURVY）研究报告",
       "path": "reports/ZURVY-苏黎世保险/苏黎世保险研究报告-20260927.md",

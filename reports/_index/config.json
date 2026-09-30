@@ -1,6 +1,7 @@
 {
   "_comment": "报告索引配置。tools/reports_index.py 读取本文件。未列出的顶层目录默认按『公司』处理。",
   "aliases": {
+    "NVDA": "英伟达",
     "Alibaba": "阿里巴巴",
     "腾讯-deepseek分析": "腾讯",
     "百度-deepseek分析": "百度",

@@ -1,6 +1,39 @@
 {
-  "count": 68,
+  "count": 70,
   "reports": [
+    {
+      "title": "NVIDIA (NASDAQ: NVDA) 投研团队综合深度投资分析报告",
+      "path": "reports/NVDA-英伟达/NVDA投资研究报告_20260930.md",
+      "bucket": "公司",
+      "group": "NVDA-英伟达",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "摩根士丹利（MS）研究报告",
+      "path": "reports/MS-摩根士丹利/摩根士丹利研究报告-20260930.md",
+      "bucket": "公司",
+      "group": "MS-摩根士丹利",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "摩根大通（JPM）研究报告",
+      "path": "reports/JPM-摩根大通/摩根大通研究报告-20260930.md",
+      "bucket": "公司",
+      "group": "JPM-摩根大通",
+      "series": "",
+      "type": "研究",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "高盛（GS）研究报告",
       "path": "reports/GS-高盛/高盛研究报告-20260930.md",
@@ -13,8 +46,8 @@
       "ticker": ""
     },
     {
-      "title": "谷歌（GOOGL）研究报告",
-      "path": "reports/GOOGL-谷歌/谷歌（GOOGL）研究报告-20260930.md",
+      "title": "Alphabet（GOOGL）研究报告",
+      "path": "reports/GOOGL-谷歌/Alphabet研究报告-20260930-gpt6.1sol.md",
       "bucket": "公司",
       "group": "GOOGL-谷歌",
       "series": "",
@@ -481,17 +514,6 @@
       "group": "综合与横评",
       "series": "",
       "type": "筛选",
-      "date": "2026-09-07",
-      "date_source": "文件名",
-      "ticker": ""
-    },
-    {
-      "title": "Alphabet（GOOGL）研究报告：巴菲特买入前 Checklist",
-      "path": "reports/GOOGL-谷歌/巴菲特Checklist-谷歌-20260907.md",
-      "bucket": "公司",
-      "group": "GOOGL-谷歌",
-      "series": "",
-      "type": "底稿",
       "date": "2026-09-07",
       "date_source": "文件名",
       "ticker": ""

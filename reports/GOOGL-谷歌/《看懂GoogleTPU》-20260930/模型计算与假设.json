@@ -1,0 +1,362 @@
+{
+  "status": "illustrative valuation hypotheses, not forecasts or audited fair values",
+  "units": "FCFF and assets USD billion; shares billion; prices USD",
+  "cash_flow_start": "hypothetical normalized year0 circa2026, not reported financial metric",
+  "shares": "12.230B fixed proxy; SBC treated as economic cost in assumed operating cash; preferred deduction is analytical proxy, not actual settlement forecast",
+  "asset_bridge_inputs": {
+    "cash_and_liquid_securities_ex_equity_B": "155.411",
+    "debt_B": "100.164",
+    "finance_lease_B": "2.590",
+    "minimum_operating_cash_assumption_B": "25",
+    "listed_equity_current_book_B": "87.063",
+    "listed_equity_noncurrent_book_B": "14.126",
+    "listed_equity_book_B": "101.189",
+    "listed_value_factor_assumption": ".75",
+    "nonmarketable_securities_book_B": "131.461",
+    "nonmarketable_value_factor_assumption": ".5",
+    "preferred_claim_proxy_B": "19.25",
+    "noncontrolling_claim_book_proxy_assumption_B": "7.1"
+  },
+  "asset_bridge_formula": "cash_ex_equity - debt - finance_lease - minimum_cash + listed_book * listed_factor + nonmarketable_book * nonmarketable_factor - preferred_proxy - NCI_book_proxy",
+  "FCFF_scope": "hypothetical consolidated operating FCFF before all financing interest/principal, including ordinary debt and finance leases, including economic reinvestment and SBC; noncontrolling claim proxy separately deducted; not reconciled to reported normalized FCFF",
+  "discount_scope": "assumed WACC approximation; not equity cost",
+  "cases": [
+    {
+      "case": "保守",
+      "assumptions": {
+        "services": "110",
+        "cloud": "12",
+        "other": "-7",
+        "group": "-18",
+        "gs1": ".05",
+        "gs2": ".03",
+        "gc1": ".12",
+        "gc2": ".08",
+        "expense": ".04",
+        "discount": ".10",
+        "terminal": ".025"
+      },
+      "start_total_FCFF_B": "97",
+      "annual_cash_flows_B": [
+        {
+          "services": "115.50",
+          "cloud": "13.44",
+          "other": "-7.28",
+          "group": "-18.72"
+        },
+        {
+          "services": "121.2750",
+          "cloud": "15.0528",
+          "other": "-7.5712",
+          "group": "-19.4688"
+        },
+        {
+          "services": "127.338750",
+          "cloud": "16.859136",
+          "other": "-7.874048",
+          "group": "-20.247552"
+        },
+        {
+          "services": "133.70568750",
+          "cloud": "18.88223232",
+          "other": "-8.18900992",
+          "group": "-21.05745408"
+        },
+        {
+          "services": "140.3909718750",
+          "cloud": "21.1481001984",
+          "other": "-8.5165703168",
+          "group": "-21.8997522432"
+        },
+        {
+          "services": "144.602701031250",
+          "cloud": "22.839948214272",
+          "other": "-8.857233129472",
+          "group": "-22.775742332928"
+        },
+        {
+          "services": "148.94078206218750",
+          "cloud": "24.66714407141376",
+          "other": "-9.21152245465088",
+          "group": "-23.68677202624512"
+        },
+        {
+          "services": "153.4090055240531250",
+          "cloud": "26.6405155971268608",
+          "other": "-9.5799833528369152",
+          "group": "-24.6342429072949248"
+        },
+        {
+          "services": "158.011275689774718750",
+          "cloud": "28.771756844897009664",
+          "other": "-9.963182686950391808",
+          "group": "-25.619612623586721792"
+        },
+        {
+          "services": "162.75161396046796031250",
+          "cloud": "31.07349739248877043712",
+          "other": "-10.36170999442840748032",
+          "group": "-26.64439712853019066368"
+        }
+      ],
+      "PV_by_segment_B": {
+        "services": "1696.327515541583071848560358924433832998",
+        "cloud": "289.2431703407948150727657511890071865042",
+        "other": "-106.6854115636551279198556798405810493162",
+        "group": "-274.3339154493989003653431767329226982415"
+      },
+      "operating_value_B": "1604.551358869323858636127253539937271944",
+      "terminal_value_pct": "51.49686838150552943456696794697575792288",
+      "asset_bridge_B": "142.92925",
+      "equity_value_B": "1747.480608869323858636127253539937271944",
+      "value_per_share_USD": "142.8847595150714520552843216304118783274",
+      "vs_340_92_pct": "-58.08847837760429072648001829449375855702",
+      "illustrative_25pct_margin_price_USD": "107.1635696363035890414632412228089087456"
+    },
+    {
+      "case": "中性",
+      "assumptions": {
+        "services": "130",
+        "cloud": "25",
+        "other": "-5",
+        "group": "-20",
+        "gs1": ".08",
+        "gs2": ".05",
+        "gc1": ".22",
+        "gc2": ".12",
+        "expense": ".05",
+        "discount": ".09",
+        "terminal": ".03"
+      },
+      "start_total_FCFF_B": "130",
+      "annual_cash_flows_B": [
+        {
+          "services": "140.40",
+          "cloud": "30.50",
+          "other": "-5.25",
+          "group": "-21.00"
+        },
+        {
+          "services": "151.6320",
+          "cloud": "37.2100",
+          "other": "-5.5125",
+          "group": "-22.0500"
+        },
+        {
+          "services": "163.762560",
+          "cloud": "45.396200",
+          "other": "-5.788125",
+          "group": "-23.152500"
+        },
+        {
+          "services": "176.86356480",
+          "cloud": "55.38336400",
+          "other": "-6.07753125",
+          "group": "-24.31012500"
+        },
+        {
+          "services": "191.0126499840",
+          "cloud": "67.5677040800",
+          "other": "-6.3814078125",
+          "group": "-25.5256312500"
+        },
+        {
+          "services": "200.563282483200",
+          "cloud": "75.675828569600",
+          "other": "-6.700478203125",
+          "group": "-26.801912812500"
+        },
+        {
+          "services": "210.59144660736000",
+          "cloud": "84.75692799795200",
+          "other": "-7.03550211328125",
+          "group": "-28.14200845312500"
+        },
+        {
+          "services": "221.1210189377280000",
+          "cloud": "94.9277593577062400",
+          "other": "-7.3872772189453125",
+          "group": "-29.5491088757812500"
+        },
+        {
+          "services": "232.177069884614400000",
+          "cloud": "106.319090480630988800",
+          "other": "-7.756641079892578125",
+          "group": "-31.026564319570312500"
+        },
+        {
+          "services": "243.78592337884512000000",
+          "cloud": "119.07738133830670745600",
+          "other": "-8.14447313388720703125",
+          "group": "-32.57789253554882812500"
+        }
+      ],
+      "PV_by_segment_B": {
+        "services": "2955.754972433397827439601356099257255348",
+        "cloud": "1279.360944162806106257221604464126420194",
+        "other": "-100.0004859969511857638035746055580213434",
+        "group": "-400.0019439878047430552142984222320853735"
+      },
+      "operating_value_B": "3735.113486611448004877805087535593568826",
+      "terminal_value_pct": "62.54075408043029011903228387988530784979",
+      "asset_bridge_B": "142.92925",
+      "equity_value_B": "3878.042736611448004877805087535593568826",
+      "value_per_share_USD": "317.0926195103391663841214298884377407053",
+      "vs_340_92_pct": "-6.989141291112528926398735806512454327910",
+      "illustrative_25pct_margin_price_USD": "237.8194646327543747880910724163283055290"
+    },
+    {
+      "case": "乐观",
+      "assumptions": {
+        "services": "145",
+        "cloud": "35",
+        "other": "-3",
+        "group": "-23",
+        "gs1": ".10",
+        "gs2": ".07",
+        "gc1": ".30",
+        "gc2": ".16",
+        "expense": ".06",
+        "discount": ".085",
+        "terminal": ".03"
+      },
+      "start_total_FCFF_B": "154",
+      "annual_cash_flows_B": [
+        {
+          "services": "159.50",
+          "cloud": "45.50",
+          "other": "-3.18",
+          "group": "-24.38"
+        },
+        {
+          "services": "175.4500",
+          "cloud": "59.1500",
+          "other": "-3.3708",
+          "group": "-25.8428"
+        },
+        {
+          "services": "192.995000",
+          "cloud": "76.895000",
+          "other": "-3.573048",
+          "group": "-27.393368"
+        },
+        {
+          "services": "212.29450000",
+          "cloud": "99.96350000",
+          "other": "-3.78743088",
+          "group": "-29.03697008"
+        },
+        {
+          "services": "233.5239500000",
+          "cloud": "129.9525500000",
+          "other": "-4.0146767328",
+          "group": "-30.7791882848"
+        },
+        {
+          "services": "249.870626500000",
+          "cloud": "150.744958000000",
+          "other": "-4.255557336768",
+          "group": "-32.625939581888"
+        },
+        {
+          "services": "267.36157035500000",
+          "cloud": "174.86415128000000",
+          "other": "-4.51089077697408",
+          "group": "-34.58349595680128"
+        },
+        {
+          "services": "286.0768802798500000",
+          "cloud": "202.8424154848000000",
+          "other": "-4.7815442235925248",
+          "group": "-36.6585057142093568"
+        },
+        {
+          "services": "306.102261899439500000",
+          "cloud": "235.297201962368000000",
+          "other": "-5.068436877008076288",
+          "group": "-38.858016057061918208"
+        },
+        {
+          "services": "327.52942023240026500000",
+          "cloud": "272.94475427634688000000",
+          "other": "-5.37254308962856086528",
+          "group": "-41.18949702048563330048"
+        }
+      ],
+      "PV_by_segment_B": {
+        "services": "4213.391521678175616637685681505084793501",
+        "cloud": "3102.116046954957641124560615304623162805",
+        "other": "-70.94892581526613635150700718252508466437",
+        "group": "-543.9417645837070453615537217326923157602"
+      },
+      "operating_value_B": "6700.616878234160076049185567894490555882",
+      "terminal_value_pct": "68.47046001061359114629235601739335424804",
+      "asset_bridge_B": "142.92925",
+      "equity_value_B": "6843.546128234160076049185567894490555882",
+      "value_per_share_USD": "559.5704111393426063817813219864669301621",
+      "vs_340_92_pct": "64.13540160135592114917908071878063186730",
+      "illustrative_25pct_margin_price_USD": "419.6778083545069547863359914898501976216"
+    }
+  ],
+  "base_case_sensitivity": [
+    {
+      "discount_WACC": "0.08",
+      "terminal_growth": "0.02",
+      "per_share_USD": "339.5081845939034681215128132005515456137"
+    },
+    {
+      "discount_WACC": "0.08",
+      "terminal_growth": "0.03",
+      "per_share_USD": "383.4304173628808983408743340911069688034"
+    },
+    {
+      "discount_WACC": "0.08",
+      "terminal_growth": "0.04",
+      "per_share_USD": "449.3137665163470436699166154269401035881"
+    },
+    {
+      "discount_WACC": "0.09",
+      "terminal_growth": "0.02",
+      "per_share_USD": "288.2169746758112852809872563778905499806"
+    },
+    {
+      "discount_WACC": "0.09",
+      "terminal_growth": "0.03",
+      "per_share_USD": "317.0926195103391663841214298884377407052"
+    },
+    {
+      "discount_WACC": "0.09",
+      "terminal_growth": "0.04",
+      "per_share_USD": "357.5185222786781999285092728032038077194"
+    },
+    {
+      "discount_WACC": "0.10",
+      "terminal_growth": "0.02",
+      "per_share_USD": "249.9853217145485817070956967846783841283"
+    },
+    {
+      "discount_WACC": "0.10",
+      "terminal_growth": "0.03",
+      "per_share_USD": "269.9332257313708131114275318362842431249"
+    },
+    {
+      "discount_WACC": "0.10",
+      "terminal_growth": "0.04",
+      "per_share_USD": "296.5304310871337883172033119050920551202"
+    }
+  ],
+  "examples": {
+    "A_task_cost": "1000",
+    "B_task_cost": "1200",
+    "migration_net_saving_base_million": "1.5",
+    "migration_payback_base_years": "1",
+    "migration_payback_stress_years": "3",
+    "internal_cost_volume_illustration": "105.00",
+    "all_cost_saving_pct": "4.166666666666666666666666666666666666667",
+    "migration_payback_months": "12",
+    "goodput_example_pct": "80.0",
+    "four_year_depreciation": "25",
+    "six_year_depreciation": "16.66666666666666666666666666666666666667",
+    "depreciation_difference": "8.33333333333333333333333333333333333333"
+  }
+}

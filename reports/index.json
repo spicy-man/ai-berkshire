@@ -1,5 +1,5 @@
 {
-  "count": 70,
+  "count": 83,
   "reports": [
     {
       "title": "英伟达（NVDA）研究报告",
@@ -41,6 +41,149 @@
       "group": "GS-高盛",
       "series": "",
       "type": "研究",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Google TPU：补充商业与供应链证据",
+      "path": "reports/GOOGL-谷歌/《看懂GoogleTPU》-20260930/资料索引.md",
+      "bucket": "公司",
+      "group": "GOOGL-谷歌",
+      "series": "《看懂GoogleTPU》-20260930",
+      "type": "深度系列",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Google TPU：补充商业与供应链证据",
+      "path": "reports/GOOGL-谷歌/《看懂GoogleTPU》-20260930/研究底稿/补充商业证据.md",
+      "bucket": "公司",
+      "group": "GOOGL-谷歌",
+      "series": "《看懂GoogleTPU》-20260930",
+      "type": "底稿",
+      "date": "2026-09-30",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "Google TPU 技术证据底稿",
+      "path": "reports/GOOGL-谷歌/《看懂GoogleTPU》-20260930/研究底稿/技术证据底稿.md",
+      "bucket": "公司",
+      "group": "GOOGL-谷歌",
+      "series": "《看懂GoogleTPU》-20260930",
+      "type": "底稿",
+      "date": "2026-09-30",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "Google TPU 内部研究底稿",
+      "path": "reports/GOOGL-谷歌/《看懂GoogleTPU》-20260930/研究底稿/内部研究底稿.md",
+      "bucket": "公司",
+      "group": "GOOGL-谷歌",
+      "series": "《看懂GoogleTPU》-20260930",
+      "type": "底稿",
+      "date": "2026-09-30",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "Alphabet 估值证据与计算",
+      "path": "reports/GOOGL-谷歌/《看懂GoogleTPU》-20260930/研究底稿/估值证据与计算.md",
+      "bucket": "公司",
+      "group": "GOOGL-谷歌",
+      "series": "《看懂GoogleTPU》-20260930",
+      "type": "底稿",
+      "date": "2026-09-30",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "《看懂 Google TPU》五篇合订本",
+      "path": "reports/GOOGL-谷歌/《看懂GoogleTPU》-20260930/看懂GoogleTPU-五篇合订本.md",
+      "bucket": "公司",
+      "group": "GOOGL-谷歌",
+      "series": "《看懂GoogleTPU》-20260930",
+      "type": "深度系列",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "本次核查与修订记录",
+      "path": "reports/GOOGL-谷歌/《看懂GoogleTPU》-20260930/核查与修订记录.md",
+      "bucket": "公司",
+      "group": "GOOGL-谷歌",
+      "series": "《看懂GoogleTPU》-20260930",
+      "type": "深度系列",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "TPU 很强，Alphabet 就值得买吗？",
+      "path": "reports/GOOGL-谷歌/《看懂GoogleTPU》-20260930/05-TPU很强Alphabet就值得买吗.md",
+      "bucket": "公司",
+      "group": "GOOGL-谷歌",
+      "series": "《看懂GoogleTPU》-20260930",
+      "type": "深度系列",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "设计出 TPU，为什么仍可能交不出来？",
+      "path": "reports/GOOGL-谷歌/《看懂GoogleTPU》-20260930/04-设计出TPU为什么仍可能交不出来.md",
+      "bucket": "公司",
+      "group": "GOOGL-谷歌",
+      "series": "《看懂GoogleTPU》-20260930",
+      "type": "深度系列",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "从内部自用到系统销售：TPU 如何赚钱？",
+      "path": "reports/GOOGL-谷歌/《看懂GoogleTPU》-20260930/03-从内部自用到系统销售TPU如何赚钱.md",
+      "bucket": "公司",
+      "group": "GOOGL-谷歌",
+      "series": "《看懂GoogleTPU》-20260930",
+      "type": "深度系列",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "谷歌有 TPU，客户为什么仍选 GPU？",
+      "path": "reports/GOOGL-谷歌/《看懂GoogleTPU》-20260930/02-谷歌有TPU客户为什么仍选GPU.md",
+      "bucket": "公司",
+      "group": "GOOGL-谷歌",
+      "series": "《看懂GoogleTPU》-20260930",
+      "type": "深度系列",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "你以为 TPU 只是一颗芯片",
+      "path": "reports/GOOGL-谷歌/《看懂GoogleTPU》-20260930/01-你以为TPU只是一颗芯片.md",
+      "bucket": "公司",
+      "group": "GOOGL-谷歌",
+      "series": "《看懂GoogleTPU》-20260930",
+      "type": "深度系列",
+      "date": "2026-09-30",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "《看懂 Google TPU》：目录与研究边界",
+      "path": "reports/GOOGL-谷歌/《看懂GoogleTPU》-20260930/00-系列说明.md",
+      "bucket": "公司",
+      "group": "GOOGL-谷歌",
+      "series": "《看懂GoogleTPU》-20260930",
+      "type": "深度系列",
       "date": "2026-09-30",
       "date_source": "文件名",
       "ticker": ""

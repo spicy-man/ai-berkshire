@@ -1,0 +1,97 @@
+{
+  "method": "Python Decimal fallback; original financial_rigor.py not located. Preliminary checks only.",
+  "annual": [
+    {
+      "year": 2021,
+      "unit": "USD million",
+      "revenue": 257637,
+      "net_income": 76033,
+      "operating_cash_flow": 91652,
+      "capex": 24640,
+      "free_cash_flow": 67012,
+      "cloud_revenue": 19206,
+      "capex_revenue_pct": "9.56",
+      "cross_source_difference_pct": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "year": 2022,
+      "unit": "USD million",
+      "revenue": 282836,
+      "net_income": 59972,
+      "operating_cash_flow": 91495,
+      "capex": 31485,
+      "free_cash_flow": 60010,
+      "cloud_revenue": 26280,
+      "capex_revenue_pct": "11.13",
+      "cross_source_difference_pct": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "year": 2023,
+      "unit": "USD million",
+      "revenue": 307394,
+      "net_income": 73795,
+      "operating_cash_flow": 101746,
+      "capex": 32251,
+      "free_cash_flow": 69495,
+      "cloud_revenue": 33088,
+      "capex_revenue_pct": "10.49",
+      "cross_source_difference_pct": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "year": 2024,
+      "unit": "USD million",
+      "revenue": 350018,
+      "net_income": 100118,
+      "operating_cash_flow": 125299,
+      "capex": 52535,
+      "free_cash_flow": 72764,
+      "cloud_revenue": 43229,
+      "capex_revenue_pct": "15.01",
+      "cross_source_difference_pct": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    },
+    {
+      "year": 2025,
+      "unit": "USD million",
+      "revenue": 402836,
+      "net_income": 132170,
+      "operating_cash_flow": 164713,
+      "capex": 91447,
+      "free_cash_flow": 73266,
+      "cloud_revenue": 58705,
+      "capex_revenue_pct": "22.70",
+      "cross_source_difference_pct": [
+        "0",
+        "0",
+        "0",
+        "0"
+      ]
+    }
+  ],
+  "derived_metrics": {
+    "2025_cloud_operating_margin_pct": "23.69",
+    "2026Q2_cloud_operating_margin_pct": "35.59",
+    "2026Q2_cloud_revenue_growth_pct": "81.80",
+    "2026H1_ocf_minus_cash_capex_USD_million": 4261,
+    "2021_to_2025_capex_multiple": "3.71"
+  }
+}

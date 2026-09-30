@@ -3,7 +3,7 @@
 > 本文件由 `tools/reports_index.py` 自动生成，请勿手工编辑。
 > 新增报告后运行 `python3 tools/reports_index.py` 重新生成。
 
-**70 份报告** · **39 家公司** · **2 个专题** · 最近更新 2026-09-30
+**83 份报告** · **39 家公司** · **2 个专题** · 最近更新 2026-09-30
 
 [最近更新](#最近更新) · [按公司](#按公司) · [专题研究](#专题研究) · [大师研究](#大师研究) · [筛选池](#筛选池)
 
@@ -17,6 +17,9 @@
 | 2026-09-30 | [摩根士丹利（MS）研究报告](MS-摩根士丹利/摩根士丹利研究报告-20260930.md) | MS-摩根士丹利 | 研究 |
 | 2026-09-30 | [摩根大通（JPM）研究报告](JPM-摩根大通/摩根大通研究报告-20260930.md) | JPM-摩根大通 | 研究 |
 | 2026-09-30 | [高盛（GS）研究报告](GS-高盛/高盛研究报告-20260930.md) | GS-高盛 | 研究 |
+| 2026-09-30 | [Google TPU：补充商业与供应链证据](GOOGL-谷歌/《看懂GoogleTPU》-20260930/资料索引.md) | GOOGL-谷歌 | 深度系列 |
+| 2026-09-30 | [《看懂 Google TPU》五篇合订本](GOOGL-谷歌/《看懂GoogleTPU》-20260930/看懂GoogleTPU-五篇合订本.md) | GOOGL-谷歌 | 深度系列 |
+| 2026-09-30 | [本次核查与修订记录](GOOGL-谷歌/《看懂GoogleTPU》-20260930/核查与修订记录.md) | GOOGL-谷歌 | 深度系列 |
 | 2026-09-30 | [Alphabet（GOOGL）研究报告](GOOGL-谷歌/Alphabet研究报告-20260930-gpt6.1sol.md) | GOOGL-谷歌 | 研究 |
 | 2026-09-30 | [美国银行（BAC）研究报告](BAC-美国银行/美国银行研究报告-20260930.md) | BAC-美国银行 | 研究 |
 | 2026-09-27 | [苏黎世保险（Zurich Insurance Group, SIX: ZURN / OTC: ZURVY）研究报告](ZURVY-苏黎世保险/苏黎世保险研究报告-20260927.md) | ZURVY-苏黎世保险 | 研究 |
@@ -50,13 +53,37 @@
 | 2026-09-10 | [TLT（iShares 20+ Year Treasury Bond ETF）研究报告](TLT-20年期美债ETF/TLT研究报告-20260910.md) | TLT-20年期美债ETF | 研究 |
 | 2026-09-10 | [Oracle：数据库现金牛，还是被 AI 数据中心重新定价的重资产公司？](ORCL-甲骨文/Oracle研究报告-20260910.md) | ORCL-甲骨文 | 研究 |
 | 2026-09-10 | [伯克希尔哈撒韦（BRK-B）研究报告](BRK-伯克希尔哈撒韦/伯克希尔哈撒韦研究报告-20260910.md) | BRK-伯克希尔哈撒韦 | 研究 |
-| 2026-09-10 | [Adobe：AI 时代的专业内容操作系统，还是被低成本生成工具围攻的旧王？](ADBE-Adobe/Adobe研究报告-20260910.md) | ADBE-Adobe | 研究 |
-| 2026-09-09 | [SMH 半导体 ETF 研究报告](SMH-半导体ETF/SMH半导体ETF研究报告-20260909.md) | SMH-半导体ETF | 研究 |
-| 2026-09-09 | [微软：企业软件护城河仍宽，AI 投资回报决定买入价格](MSFT-微软/微软研究报告-20260909.md) | MSFT-微软 | 研究 |
 
 ---
 
 ## 按公司
+
+<details>
+<summary><b>GOOGL-谷歌</b> · 14 份 · 最近 2026-09-30</summary>
+
+
+*《看懂GoogleTPU》*
+
+- `2026-09-30` [谷歌有 TPU，客户为什么仍选 GPU？](GOOGL-谷歌/《看懂GoogleTPU》-20260930/02-谷歌有TPU客户为什么仍选GPU.md) — 深度系列
+- `2026-09-30` [设计出 TPU，为什么仍可能交不出来？](GOOGL-谷歌/《看懂GoogleTPU》-20260930/04-设计出TPU为什么仍可能交不出来.md) — 深度系列
+- `2026-09-30` [本次核查与修订记录](GOOGL-谷歌/《看懂GoogleTPU》-20260930/核查与修订记录.md) — 深度系列
+- `2026-09-30` [你以为 TPU 只是一颗芯片](GOOGL-谷歌/《看懂GoogleTPU》-20260930/01-你以为TPU只是一颗芯片.md) — 深度系列
+- `2026-09-30` [从内部自用到系统销售：TPU 如何赚钱？](GOOGL-谷歌/《看懂GoogleTPU》-20260930/03-从内部自用到系统销售TPU如何赚钱.md) — 深度系列
+- `2026-09-30` [《看懂 Google TPU》：目录与研究边界](GOOGL-谷歌/《看懂GoogleTPU》-20260930/00-系列说明.md) — 深度系列
+- `2026-09-30` [《看懂 Google TPU》五篇合订本](GOOGL-谷歌/《看懂GoogleTPU》-20260930/看懂GoogleTPU-五篇合订本.md) — 深度系列
+- `2026-09-30` [TPU 很强，Alphabet 就值得买吗？](GOOGL-谷歌/《看懂GoogleTPU》-20260930/05-TPU很强Alphabet就值得买吗.md) — 深度系列
+- `2026-09-30` [Google TPU：补充商业与供应链证据](GOOGL-谷歌/《看懂GoogleTPU》-20260930/资料索引.md) — 深度系列
+- `2026-09-30` [Google TPU：补充商业与供应链证据](GOOGL-谷歌/《看懂GoogleTPU》-20260930/研究底稿/补充商业证据.md) — 底稿
+- `2026-09-30` [Google TPU 技术证据底稿](GOOGL-谷歌/《看懂GoogleTPU》-20260930/研究底稿/技术证据底稿.md) — 底稿
+- `2026-09-30` [Google TPU 内部研究底稿](GOOGL-谷歌/《看懂GoogleTPU》-20260930/研究底稿/内部研究底稿.md) — 底稿
+
+- `2026-09-30` [Alphabet（GOOGL）研究报告](GOOGL-谷歌/Alphabet研究报告-20260930-gpt6.1sol.md) — 研究
+
+*《看懂GoogleTPU》*
+
+- `2026-09-30` [Alphabet 估值证据与计算](GOOGL-谷歌/《看懂GoogleTPU》-20260930/研究底稿/估值证据与计算.md) — 底稿
+
+</details>
 
 <details>
 <summary><b>000002-万科</b> · 1 份 · 最近 2026-09-23</summary>
@@ -167,13 +194,6 @@
 <summary><b>CRWD-CrowdStrike</b> · 1 份 · 最近 2026-09-14</summary>
 
 - `2026-09-14` [CrowdStrike（CRWD）研究报告](CRWD-CrowdStrike/CrowdStrike研究报告-20260914.md) — 研究
-
-</details>
-
-<details>
-<summary><b>GOOGL-谷歌</b> · 1 份 · 最近 2026-09-30</summary>
-
-- `2026-09-30` [Alphabet（GOOGL）研究报告](GOOGL-谷歌/Alphabet研究报告-20260930-gpt6.1sol.md) — 研究
 
 </details>
 

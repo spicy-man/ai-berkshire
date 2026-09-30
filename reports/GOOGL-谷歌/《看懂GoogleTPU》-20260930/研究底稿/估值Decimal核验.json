@@ -1,0 +1,71 @@
+{
+  "method": "Python Decimal; source financial_rigor.py not found; not official audit pass",
+  "raw": {
+    "price_USD": "340.92",
+    "price_timestamp": "2026-09-29 16:00 EDT = 2026-09-30 04:00 Asia/Shanghai",
+    "shares_million": "12230",
+    "shares_as_of": "2026-06-30, corroborated cover 2026-07-15",
+    "cash_equivalents_million": "55911",
+    "marketable_securities_million": "186563",
+    "marketable_equity_million": "87063",
+    "long_term_debt_million": "98165",
+    "current_notes_million": "1999",
+    "operating_leases_million": "18037",
+    "finance_leases_million": "2590",
+    "FY2025_income_million": "132170",
+    "FY2025_OCF_million": "164713",
+    "FY2025_cash_capex_million": "91447",
+    "TTM_FCF_million": "53273"
+  },
+  "derived": {
+    "market_cap_proxy_million": "4169451.60",
+    "market_cap_proxy_trillion": "4.1694516",
+    "market_cap_difference_from_rounded_report_4_17T_pct": "0.01315107913669064748201438848920863309353",
+    "FY2025_FCF_million": "73266",
+    "FY2025_PE_total_share_proxy": "31.54612695770598471665279564197624271771",
+    "FY2025_FCF_yield_pct": "1.757209509279349831042528470650672620831",
+    "TTM_FCF_yield_pct": "1.277698007095225664689332285329802125536",
+    "FY2025_diluted_EPS_PE": "31.56666666666666666666666666666666666667",
+    "TTM_diluted_EPS_PE": "17.10587054691419969894631209232313095835",
+    "cash_plus_marketable_million": "242474",
+    "cash_and_marketable_debt_excluding_equity_million": "155411",
+    "notes_other_debt_book_million": "100164",
+    "all_debt_and_leases_million": "120791",
+    "net_cash_including_marketable_equity_excluding_leases_million": "142310",
+    "net_cash_excluding_marketable_equity_excluding_leases_million": "55247",
+    "net_cash_including_equity_including_leases_million": "121683",
+    "FY2025_to_2026Q2_shares_growth_pct": "1.174718729318332230311052283256121773700",
+    "H1_FCF_million": "4261",
+    "preferred_depositary_to_underlying_exact_million": "19.25",
+    "preferred_gross_liquidation_million": "19250",
+    "preferred_annual_coupon_million": "1203.1250",
+    "preferred_gross_conversion_min_million": "43.5627500",
+    "preferred_gross_conversion_max_million": "54.4582500",
+    "founder_combined_voting_pct_rounded": "52.7"
+  },
+  "illustrative_reverse_DCF": [
+    {
+      "base_FCF_million": "73266",
+      "required_10yr_constant_growth_pct": "21.29526574243110592371565455987470274206",
+      "assumptions": "illustration only: equity discount10%, terminal3%, 10years, fixed sharecount, no separate asset bridge, no cash/debt/preferred bridge; not operating EV DCF nor recommendation"
+    },
+    {
+      "base_FCF_million": "53273",
+      "required_10yr_constant_growth_pct": "25.70083917270333519576265610890380337414",
+      "assumptions": "illustration only: equity discount10%, terminal3%, 10years, fixed sharecount, no separate asset bridge, no cash/debt/preferred bridge; not operating EV DCF nor recommendation"
+    }
+  ],
+  "cross_validation": {
+    "2025_revenue_pct": "0",
+    "2025_net_income_pct": "0",
+    "2025_OCF_pct": "0",
+    "2025_capex_pct": "0",
+    "2026Q2_cash_plus_marketable_pct": "0",
+    "2026Q2_shares_pct": "0"
+  },
+  "limitations": [
+    "GOOGL price times total A+B+C shares is proxy, not exact class-specific market cap",
+    "price current Sept29, shares disclosed June30/July15, September exact shares unknown",
+    "DCF growth hypothesis not forecast; preferred and SBC require explicit future-share model"
+  ]
+}

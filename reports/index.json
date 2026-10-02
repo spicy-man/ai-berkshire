@@ -1,6 +1,83 @@
 {
-  "count": 83,
+  "count": 90,
   "reports": [
+    {
+      "title": "西部数据（WDC）研究报告",
+      "path": "reports/WDC-西部数据/西部数据研究报告-20261002.md",
+      "bucket": "公司",
+      "group": "WDC-西部数据",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "宝洁（PG）研究报告",
+      "path": "reports/PG-宝洁/宝洁研究报告-20261002.md",
+      "bucket": "公司",
+      "group": "PG-宝洁",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "耐克（NKE）研究报告",
+      "path": "reports/NKE-耐克/耐克研究报告-20261002.md",
+      "bucket": "公司",
+      "group": "NKE-耐克",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "迪士尼（DIS）研究报告",
+      "path": "reports/DIS-迪士尼/迪士尼研究报告-20261002.md",
+      "bucket": "公司",
+      "group": "DIS-迪士尼",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-02",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "美光（MU）研究报告",
+      "path": "reports/MU-美光/美光研究报告-20261001.md",
+      "bucket": "公司",
+      "group": "MU-美光",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-01",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "花旗集团（C）研究报告",
+      "path": "reports/C-花旗/花旗研究报告-20261001.md",
+      "bucket": "公司",
+      "group": "C-花旗",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-01",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "博通（AVGO）研究报告",
+      "path": "reports/AVGO-博通/博通研究报告-20261001.md",
+      "bucket": "公司",
+      "group": "AVGO-博通",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-01",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "英伟达（NVDA）研究报告",
       "path": "reports/NVDA-英伟达/英伟达研究报告-20260930-gpt6.1sol.md",

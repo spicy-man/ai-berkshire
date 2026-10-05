@@ -3,7 +3,7 @@
 > 本文件由 `tools/reports_index.py` 自动生成，请勿手工编辑。
 > 新增报告后运行 `python3 tools/reports_index.py` 重新生成。
 
-**92 份报告** · **47 家公司** · **2 个专题** · 最近更新 2026-10-03
+**102 份报告** · **50 家公司** · **2 个专题** · 最近更新 2026-10-05
 
 [最近更新](#最近更新) · [按公司](#按公司) · [专题研究](#专题研究) · [大师研究](#大师研究) · [筛选池](#筛选池)
 
@@ -13,6 +13,13 @@
 
 | 日期 | 报告 | 归属 | 类型 |
 |------|------|------|------|
+| 2026-10-05 | [莱纳建筑（Lennar，LEN）研究报告](LEN-莱纳建筑/莱纳建筑研究报告-20261005.md) | LEN-莱纳建筑 | 研究 |
+| 2026-10-05 | [可口可乐（KO）研究报告](KO-可口可乐/可口可乐研究报告-20261005.md) | KO-可口可乐 | 研究 |
+| 2026-10-04 | [OpenAI 未上市公司研究：技术能力与知识产权](openai/parts/technology.md) | openai | 研究 |
+| 2026-10-04 | [OpenAI：替代数据信号研究](openai/parts/signals.md) | openai | 研究 |
+| 2026-10-04 | [OpenAI 风险全景、管理层与治理评估](openai/parts/governance.md) | openai | 研究 |
+| 2026-10-04 | [OpenAI 未上市公司研究报告](openai/openai-private-20261004.md) | openai | 研究 |
+| 2026-10-04 | [AI模型行业漏斗研究报告](AI模型-funnel-20261004.md) | 综合与横评 | 筛选 |
 | 2026-10-03 | [Vistra（VST）研究报告](VST-Vistra/Vistra研究报告-20261003.md) | VST-Vistra | 横评对比 |
 | 2026-10-03 | [涪陵榨菜（002507）研究报告](002507-涪陵榨菜/涪陵榨菜研究报告-20261003.md) | 002507-涪陵榨菜 | 研究 |
 | 2026-10-02 | [西部数据（WDC）研究报告](WDC-西部数据/西部数据研究报告-20261002.md) | WDC-西部数据 | 研究 |
@@ -46,13 +53,6 @@
 | 2026-09-16 | [Meta Platforms（META）研究报告](META-META/Meta研究报告-20260916.md) | META-META | 研究 |
 | 2026-09-14 | [VGT ETF 研究报告](VGT-信息技术ETF/VGT-ETF研究报告-20260914.md) | VGT-信息技术ETF | 研究 |
 | 2026-09-14 | [CrowdStrike（CRWD）研究报告](CRWD-CrowdStrike/CrowdStrike研究报告-20260914.md) | CRWD-CrowdStrike | 研究 |
-| 2026-09-14 | [好市多（COST）研究报告](COST-好市多/好市多研究报告-20260914.md) | COST-好市多 | 研究 |
-| 2026-09-13 | [NIKE（NKE）研究报告](NKE-耐克/Nike研究报告-20260913.md) | NKE-耐克 | 研究 |
-| 2026-09-13 | [Netflix（NFLX）研究报告](NFLX-奈飞/Netflix研究报告-20260913.md) | NFLX-奈飞 | 研究 |
-| 2026-09-13 | [Marvell（MRVL）研究报告](MRVL-迈威尔科技/Marvell研究报告-20260913.md) | MRVL-迈威尔科技 | 研究 |
-| 2026-09-13 | [麦当劳（MCD）研究报告](MCD-麦当劳/麦当劳研究报告-20260913.md) | MCD-麦当劳 | 研究 |
-| 2026-09-13 | [IGV ETF 研究报告](IGV-科技软件ETF/IGV-ETF研究报告-20260913.md) | IGV-科技软件ETF | 研究 |
-| 2026-09-13 | [Circle（CRCL）研究报告](CRCL-Circle/Circle研究报告-20260913.md) | CRCL-Circle | 研究 |
 
 ---
 
@@ -82,6 +82,23 @@
 *《看懂GoogleTPU》*
 
 - `2026-09-30` [Alphabet 估值证据与计算](GOOGL-谷歌/《看懂GoogleTPU》-20260930/研究底稿/估值证据与计算.md) — 底稿
+
+</details>
+
+<details>
+<summary><b>openai</b> · 7 份 · 最近 2026-10-04</summary>
+
+
+*parts*
+
+- `2026-10-04` [OpenAI：替代数据信号研究](openai/parts/signals.md) — 研究
+- `2026-10-04` [OpenAI：商业模式、产品与用户研究](openai/parts/business.md) — 研究
+- `2026-10-04` [OpenAI 风险全景、管理层与治理评估](openai/parts/governance.md) — 研究
+- `2026-10-04` [OpenAI 财务拼图与估值研究](openai/parts/financial.md) — 研究
+- `2026-10-04` [OpenAI 未上市公司研究：行业与竞争](openai/parts/competition.md) — 研究
+- `2026-10-04` [OpenAI 未上市公司研究：技术能力与知识产权](openai/parts/technology.md) — 研究
+
+- `2026-10-04` [OpenAI 未上市公司研究报告](openai/openai-private-20261004.md) — 研究
 
 </details>
 
@@ -251,6 +268,20 @@
 <summary><b>JPM-摩根大通</b> · 1 份 · 最近 2026-09-30</summary>
 
 - `2026-09-30` [摩根大通（JPM）研究报告](JPM-摩根大通/摩根大通研究报告-20260930.md) — 研究
+
+</details>
+
+<details>
+<summary><b>KO-可口可乐</b> · 1 份 · 最近 2026-10-05</summary>
+
+- `2026-10-05` [可口可乐（KO）研究报告](KO-可口可乐/可口可乐研究报告-20261005.md) — 研究
+
+</details>
+
+<details>
+<summary><b>LEN-莱纳建筑</b> · 1 份 · 最近 2026-10-05</summary>
+
+- `2026-10-05` [莱纳建筑（Lennar，LEN）研究报告](LEN-莱纳建筑/莱纳建筑研究报告-20261005.md) — 研究
 
 </details>
 
@@ -452,8 +483,9 @@
 </details>
 
 <details>
-<summary><b>综合与横评</b> · 2 份 · 最近 2026-09-07</summary>
+<summary><b>综合与横评</b> · 3 份 · 最近 2026-10-04</summary>
 
+- `2026-10-04` [AI模型行业漏斗研究报告](AI模型-funnel-20261004.md) — 筛选
 - `2026-09-07` [中国银行业研究报告](中国银行业-funnel-20260907.md) — 筛选
 - `2026-09-07` [中国银行业三大代表银行投资研究报告：建设银行、招商银行、宁波银行](中国银行业三大代表银行投资研究报告-建设银行-招商银行-宁波银行-20260907.md) — 研究
 

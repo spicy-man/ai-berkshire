@@ -1,6 +1,116 @@
 {
-  "count": 92,
+  "count": 102,
   "reports": [
+    {
+      "title": "莱纳建筑（Lennar，LEN）研究报告",
+      "path": "reports/LEN-莱纳建筑/莱纳建筑研究报告-20261005.md",
+      "bucket": "公司",
+      "group": "LEN-莱纳建筑",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "可口可乐（KO）研究报告",
+      "path": "reports/KO-可口可乐/可口可乐研究报告-20261005.md",
+      "bucket": "公司",
+      "group": "KO-可口可乐",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "OpenAI 未上市公司研究：技术能力与知识产权",
+      "path": "reports/openai/parts/technology.md",
+      "bucket": "公司",
+      "group": "openai",
+      "series": "parts",
+      "type": "研究",
+      "date": "2026-10-04",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "OpenAI：替代数据信号研究",
+      "path": "reports/openai/parts/signals.md",
+      "bucket": "公司",
+      "group": "openai",
+      "series": "parts",
+      "type": "研究",
+      "date": "2026-10-04",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "OpenAI 风险全景、管理层与治理评估",
+      "path": "reports/openai/parts/governance.md",
+      "bucket": "公司",
+      "group": "openai",
+      "series": "parts",
+      "type": "研究",
+      "date": "2026-10-04",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "OpenAI 财务拼图与估值研究",
+      "path": "reports/openai/parts/financial.md",
+      "bucket": "公司",
+      "group": "openai",
+      "series": "parts",
+      "type": "研究",
+      "date": "2026-10-04",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "OpenAI 未上市公司研究：行业与竞争",
+      "path": "reports/openai/parts/competition.md",
+      "bucket": "公司",
+      "group": "openai",
+      "series": "parts",
+      "type": "研究",
+      "date": "2026-10-04",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "OpenAI：商业模式、产品与用户研究",
+      "path": "reports/openai/parts/business.md",
+      "bucket": "公司",
+      "group": "openai",
+      "series": "parts",
+      "type": "研究",
+      "date": "2026-10-04",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "OpenAI 未上市公司研究报告",
+      "path": "reports/openai/openai-private-20261004.md",
+      "bucket": "公司",
+      "group": "openai",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-04",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "AI模型行业漏斗研究报告",
+      "path": "reports/AI模型-funnel-20261004.md",
+      "bucket": "专题",
+      "group": "综合与横评",
+      "series": "",
+      "type": "筛选",
+      "date": "2026-10-04",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "Vistra（VST）研究报告",
       "path": "reports/VST-Vistra/Vistra研究报告-20261003.md",

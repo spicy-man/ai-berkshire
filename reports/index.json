@@ -1,6 +1,17 @@
 {
-  "count": 102,
+  "count": 103,
   "reports": [
+    {
+      "title": "美股光模块产业链研究报告",
+      "path": "reports/bottleneck-map/美股光模块-bottleneck-20261008.md",
+      "bucket": "专题",
+      "group": "bottleneck-map",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-08",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "莱纳建筑（Lennar，LEN）研究报告",
       "path": "reports/LEN-莱纳建筑/莱纳建筑研究报告-20261005.md",

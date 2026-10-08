@@ -1,0 +1,227 @@
+{
+  "report": "reports\\bottleneck-map\\美股光模块-bottleneck-20261008.md",
+  "random_sample": [
+    {
+      "id": 4,
+      "label": "2026-08-17 · 已发生验证",
+      "reported_value": 2026.0,
+      "unit": "",
+      "raw_text": "| 2026-08-17 | FN公布FY2026收入增长约36% | 需求已传到制造环节；不证明服务涨价 |",
+      "line_number": 20,
+      "fetched_value": 2026.0,
+      "fetched_source": "日期核对",
+      "kind": "calculation"
+    },
+    {
+      "id": 14,
+      "label": "AXTI · 市值/五年乐观收入",
+      "reported_value": 10.99,
+      "unit": "x",
+      "raw_text": "| AXTI | PS超过30x且TTM增长不足100%红灯；五年预测另触发红灯 | 10.99x | 材料TAM不能用整机替代；封顶★★ |",
+      "line_number": 112,
+      "fetched_value": 10.986892364239267,
+      "fetched_source": "模型十进制独立重算或已标注的假设/技能门槛（非外部事实）",
+      "kind": "calculation"
+    },
+    {
+      "id": 15,
+      "label": "AAOI · 红黄绿灯判断",
+      "reported_value": 15.0,
+      "unit": "x",
+      "raw_text": "| AAOI | 亏损且PS超过15x黄灯 | 4.15x | 必须验证盈利路径，不以调整后利润替代GAAP |",
+      "line_number": 113,
+      "fetched_value": 15.0,
+      "fetched_source": "模型十进制独立重算或已标注的假设/技能门槛（非外部事实）",
+      "kind": "assumption"
+    },
+    {
+      "id": 18,
+      "label": "POET · 市值/五年乐观收入",
+      "reported_value": 12.8,
+      "unit": "x",
+      "raw_text": "| POET | 增长超过100%可豁免PS红线，仍有亏损黄灯；五年假设触发红灯 | 12.80x | 五年收入1亿美元是研究假设；规模收入不足，★ |",
+      "line_number": 114,
+      "fetched_value": 12.8,
+      "fetched_source": "模型十进制独立重算或已标注的假设/技能门槛（非外部事实）",
+      "kind": "calculation"
+    },
+    {
+      "id": 29,
+      "label": "COHR · 乐观终局收入：亿美元",
+      "reported_value": 519.94,
+      "unit": "",
+      "raw_text": "| COHR | +15% / 15% | +22% / 20% | +5.1% | +14.8% | 519.94 |",
+      "line_number": 175,
+      "fetched_value": 519.9436641501592,
+      "fetched_source": "模型十进制独立重算或已标注的假设/技能门槛（非外部事实）",
+      "kind": "calculation"
+    },
+    {
+      "id": 32,
+      "label": "LITE · 基准年化",
+      "reported_value": 1.5,
+      "unit": "%",
+      "raw_text": "| LITE | +20% / 25% | +28% / 30% | +1.5% | +10.2% | 355.83 |",
+      "line_number": 176,
+      "fetched_value": 1.4860874757020703,
+      "fetched_source": "模型十进制独立重算或已标注的假设/技能门槛（非外部事实）",
+      "kind": "calculation"
+    },
+    {
+      "id": 36,
+      "label": "AXTI · 乐观：收入CAGR/净利率",
+      "reported_value": 30.0,
+      "unit": "%",
+      "raw_text": "| AXTI | +20% / 20% | +30% / 25% | -2.7% | +7.8% | 17.30 |",
+      "line_number": 177,
+      "fetched_value": 30.0,
+      "fetched_source": "模型十进制独立重算或已标注的假设/技能门槛（非外部事实）",
+      "kind": "assumption"
+    },
+    {
+      "id": 35,
+      "label": "AXTI · 基准：收入CAGR/净利率",
+      "reported_value": 20.0,
+      "unit": "%",
+      "raw_text": "| AXTI | +20% / 20% | +30% / 25% | -2.7% | +7.8% | 17.30 |",
+      "line_number": 177,
+      "fetched_value": 20.0,
+      "fetched_source": "模型十进制独立重算或已标注的假设/技能门槛（非外部事实）",
+      "kind": "assumption"
+    },
+    {
+      "id": 44,
+      "label": "AAOI · 乐观终局收入：亿美元",
+      "reported_value": 119.83,
+      "unit": "",
+      "raw_text": "| AAOI | +25% / 12% | +35% / 18% | +4.1% | +17.1% | 119.83 |",
+      "line_number": 178,
+      "fetched_value": 119.82904101020308,
+      "fetched_source": "模型十进制独立重算或已标注的假设/技能门槛（非外部事实）",
+      "kind": "calculation"
+    },
+    {
+      "id": 48,
+      "label": "POET · 乐观年化",
+      "reported_value": 14.6,
+      "unit": "%",
+      "raw_text": "| POET | 终局收入3亿美元 / 15% | 终局收入10亿美元 / 20% | -1.3% | +14.6% | 10.00 |",
+      "line_number": 179,
+      "fetched_value": 14.597726949616396,
+      "fetched_source": "模型十进制独立重算或已标注的假设/技能门槛（非外部事实）",
+      "kind": "calculation"
+    },
+    {
+      "id": 58,
+      "label": "LITE · 当前收入倍数",
+      "reported_value": 11.55,
+      "unit": "x",
+      "raw_text": "| LITE | 104.41 | 348.05 | 11.55x | 极高增长与利润率才能刚过门槛 |",
+      "line_number": 189,
+      "fetched_value": 11.547632876994648,
+      "fetched_source": "模型十进制独立重算或已标注的假设/技能门槛（非外部事实）",
+      "kind": "calculation"
+    }
+  ],
+  "arithmetic_verdict": {
+    "verdict": "PASS",
+    "pass_count": 11,
+    "warn_count": 0,
+    "fail_count": 0,
+    "total": 11,
+    "fail_items": [],
+    "warn_items": []
+  },
+  "supplemental_factual_checks": [
+    {
+      "company": "FN",
+      "field": "revenue_m",
+      "reported": 4641.097,
+      "primary": 4641.097,
+      "secondary": 4640,
+      "primary_source": "https://investor.fabrinet.com/node/13666/pdf",
+      "secondary_source": "https://stockanalysis.com/stocks/fn/",
+      "primary_deviation_pct": 0.0,
+      "secondary_deviation_pct": 0.023636653144714553,
+      "status": "PASS"
+    },
+    {
+      "company": "COHR",
+      "field": "revenue_m",
+      "reported": 7118,
+      "primary": 7118,
+      "secondary": 7120,
+      "primary_source": "https://ir.coherent.com/news-releases/news-release-details/coherent-corp-reports-fourth-quarter-and-full-year-fiscal-2026",
+      "secondary_source": "https://stockanalysis.com/stocks/cohr/",
+      "primary_deviation_pct": 0.0,
+      "secondary_deviation_pct": 0.02809778027535825,
+      "status": "PASS"
+    },
+    {
+      "company": "LITE",
+      "field": "revenue_m",
+      "reported": 3014,
+      "primary": 3014,
+      "secondary": 3010,
+      "primary_source": "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-Fourth-Quarter-and-Full-Fiscal-Year-2026-Results/default.aspx",
+      "secondary_source": "https://stockanalysis.com/stocks/lite/",
+      "primary_deviation_pct": 0.0,
+      "secondary_deviation_pct": 0.13271400132714,
+      "status": "PASS"
+    },
+    {
+      "company": "AAOI",
+      "field": "revenue_m",
+      "reported": 595.97,
+      "primary": 595.973,
+      "secondary": 595.97,
+      "primary_source": "FY2025 455.718 + H1 2026 343.066 - H1 2025 202.811",
+      "secondary_source": "https://stockanalysis.com/stocks/aaoi/financials/",
+      "primary_deviation_pct": 0.0005033810426580297,
+      "secondary_deviation_pct": 0.0,
+      "status": "PASS"
+    },
+    {
+      "company": "POET",
+      "field": "revenue_m",
+      "reported": 1.71295,
+      "primary": 1.71295,
+      "secondary": 1.71,
+      "primary_source": "Q2 2026 announcement four-quarter sum",
+      "secondary_source": "https://stockanalysis.com/stocks/poet/financials/",
+      "primary_deviation_pct": 0.0,
+      "secondary_deviation_pct": 0.1722175194839317,
+      "status": "PASS"
+    },
+    {
+      "company": "AXTI",
+      "field": "revenue_m",
+      "reported": 125.51,
+      "primary": 125.509,
+      "secondary": 125.51,
+      "primary_source": "FY2025 88.326 + H1 2026 74.513 - H1 2025 37.330",
+      "secondary_source": "https://stockanalysis.com/stocks/axti/financials/",
+      "primary_deviation_pct": 0.0007967492630107359,
+      "secondary_deviation_pct": 0.0,
+      "status": "PASS"
+    },
+    {
+      "company": "AXTI",
+      "field": "net_income_m",
+      "reported": 3.88,
+      "primary": 4.054,
+      "secondary": 3.88,
+      "primary_source": "FY2025 -21.260 + H1 2026 9.508 - H1 2025 (-15.806)",
+      "secondary_source": "https://stockanalysis.com/stocks/axti/financials/",
+      "primary_deviation_pct": 4.484536082474237,
+      "secondary_deviation_pct": 0.0,
+      "status": "SOURCE_CONFLICT"
+    }
+  ],
+  "overall_status": "LIMITED_RESEARCH_NOT_UNQUALIFIED_PUBLICATION",
+  "unresolved": [
+    "AXTI net income 4.054M primary rollforward vs 3.88M secondary",
+    "Independent same-day quotes incomplete for AAOI AXTI POET",
+    "TAM per-company boundaries and supply concentration/utilization not fully verified"
+  ]
+}

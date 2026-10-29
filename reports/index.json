@@ -1,15 +1,83 @@
 {
-  "count": 103,
+  "count": 109,
+  "published": 102,
+  "drafts": 7,
   "reports": [
+    {
+      "title": "Alphabet（GOOGL）研究报告",
+      "path": "reports/GOOGL-谷歌/Alphabet研究报告-20261029.md",
+      "bucket": "公司",
+      "group": "GOOGL-谷歌",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-29",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "SMH 半导体 ETF 研究报告",
+      "path": "reports/SMH-半导体ETF/SMH半导体ETF研究报告-20261027.md",
+      "bucket": "公司",
+      "group": "SMH-半导体ETF",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-27",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Netflix（NFLX）研究报告",
+      "path": "reports/NFLX-奈飞/Netflix研究报告-20261020.md",
+      "bucket": "公司",
+      "group": "NFLX-奈飞",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-20",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "美股光模块审计记录 — 2026-10-08",
+      "path": "reports/bottleneck-map/美股光模块审计记录-20261008.md",
+      "bucket": "筛选池",
+      "group": "bottleneck-map",
+      "series": "",
+      "type": "底稿",
+      "date": "2026-10-08",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "美股光模块产业链研究报告",
       "path": "reports/bottleneck-map/美股光模块-bottleneck-20261008.md",
-      "bucket": "专题",
+      "bucket": "筛选池",
       "group": "bottleneck-map",
       "series": "",
       "type": "研究",
       "date": "2026-10-08",
       "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "瓶颈观察名单",
+      "path": "reports/bottleneck-map/watchlist.md",
+      "bucket": "筛选池",
+      "group": "bottleneck-map",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-08",
+      "date_source": "正文",
+      "ticker": ""
+    },
+    {
+      "title": "供应链瓶颈总地图",
+      "path": "reports/bottleneck-map/master-map.md",
+      "bucket": "筛选池",
+      "group": "bottleneck-map",
+      "series": "",
+      "type": "研究",
+      "date": "2026-10-08",
+      "date_source": "正文",
       "ticker": ""
     },
     {
@@ -403,7 +471,7 @@
       "bucket": "公司",
       "group": "GOOGL-谷歌",
       "series": "《看懂GoogleTPU》-20260930",
-      "type": "深度系列",
+      "type": "底稿",
       "date": "2026-09-30",
       "date_source": "文件名",
       "ticker": ""
@@ -428,6 +496,17 @@
       "type": "研究",
       "date": "2026-09-30",
       "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "黄仁勋说AI是五层蛋糕，我把50家公司扒了个遍",
+      "path": "reports/AI产业研究/公众号-总纲-AI五层蛋糕投资地图.md",
+      "bucket": "专题",
+      "group": "AI产业研究",
+      "series": "",
+      "type": "公众号",
+      "date": "2026-09-29",
+      "date_source": "git",
       "ticker": ""
     },
     {
@@ -898,7 +977,7 @@
       "bucket": "专题",
       "group": "AI产业研究",
       "series": "中美基模公司终局与MiniMax差异化研究报告-20260906-核查",
-      "type": "研究",
+      "type": "底稿",
       "date": "2026-09-06",
       "date_source": "文件名",
       "ticker": ""
@@ -909,7 +988,7 @@
       "bucket": "公司",
       "group": "688836-宇树科技",
       "series": "",
-      "type": "底稿",
+      "type": "研究",
       "date": "2026-09-05",
       "date_source": "正文",
       "ticker": ""
@@ -920,7 +999,7 @@
       "bucket": "公司",
       "group": "688825-长鑫科技",
       "series": "",
-      "type": "底稿",
+      "type": "研究",
       "date": "2026-09-05",
       "date_source": "正文",
       "ticker": ""
@@ -1121,17 +1200,6 @@
       "type": "筛选",
       "date": "2026-06-05",
       "date_source": "文件名",
-      "ticker": ""
-    },
-    {
-      "title": "黄仁勋说AI是五层蛋糕，我把50家公司扒了个遍",
-      "path": "reports/AI产业研究/公众号-总纲-AI五层蛋糕投资地图.md",
-      "bucket": "专题",
-      "group": "AI产业研究",
-      "series": "",
-      "type": "公众号",
-      "date": "",
-      "date_source": "缺失",
       "ticker": ""
     }
   ]

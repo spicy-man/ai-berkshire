@@ -1,8 +1,19 @@
 {
-  "count": 109,
-  "published": 102,
+  "count": 110,
+  "published": 103,
   "drafts": 7,
   "reports": [
+    {
+      "title": "穆迪（MCO）研究报告",
+      "path": "reports/MCO-穆迪/穆迪研究报告-20261105.md",
+      "bucket": "公司",
+      "group": "MCO-穆迪",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "Alphabet（GOOGL）研究报告",
       "path": "reports/GOOGL-谷歌/Alphabet研究报告-20261029.md",

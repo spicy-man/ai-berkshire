@@ -1,13 +1,68 @@
 {
-  "count": 110,
-  "published": 103,
+  "count": 115,
+  "published": 108,
   "drafts": 7,
   "reports": [
+    {
+      "title": "Vanguard 标普 500 ETF（VOO）研究报告",
+      "path": "reports/VOO-标普500ETF/VOO研究报告-20261106.md",
+      "bucket": "公司",
+      "group": "VOO-标普500ETF",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-06",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Vanguard 信息技术 ETF（VGT）研究报告",
+      "path": "reports/VGT-信息技术ETF/VGT-ETF研究报告-20261106.md",
+      "bucket": "公司",
+      "group": "VGT-信息技术ETF",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-06",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Schwab U.S. Dividend Equity ETF（SCHD）研究报告",
+      "path": "reports/SCHD-美国股息ETF/SCHD研究报告-20261106.md",
+      "bucket": "公司",
+      "group": "SCHD-美国股息ETF",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-06",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "Invesco QQQ（QQQ）研究报告",
+      "path": "reports/QQQ-纳斯达克100ETF/QQQ研究报告-20261106.md",
+      "bucket": "公司",
+      "group": "QQQ-纳斯达克100ETF",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-06",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "穆迪（MCO）研究报告",
       "path": "reports/MCO-穆迪/穆迪研究报告-20261105.md",
       "bucket": "公司",
       "group": "MCO-穆迪",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-05",
+      "date_source": "文件名",
+      "ticker": ""
+    },
+    {
+      "title": "中际旭创（300308.SZ / 03308.HK）研究报告",
+      "path": "reports/300308-中际旭创/中际旭创投资研究报告_20261105.md",
+      "bucket": "公司",
+      "group": "300308-中际旭创",
       "series": "",
       "type": "研究",
       "date": "2026-11-05",

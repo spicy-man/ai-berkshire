@@ -1,8 +1,19 @@
 {
-  "count": 115,
-  "published": 108,
+  "count": 116,
+  "published": 109,
   "drafts": 7,
   "reports": [
+    {
+      "title": "伯克希尔·哈撒韦（BRK.B / BRK.A）研究报告",
+      "path": "reports/BRK-伯克希尔哈撒韦/伯克希尔哈撒韦研究报告-20261108.md",
+      "bucket": "公司",
+      "group": "BRK-伯克希尔哈撒韦",
+      "series": "",
+      "type": "研究",
+      "date": "2026-11-08",
+      "date_source": "文件名",
+      "ticker": ""
+    },
     {
       "title": "Vanguard 标普 500 ETF（VOO）研究报告",
       "path": "reports/VOO-标普500ETF/VOO研究报告-20261106.md",
